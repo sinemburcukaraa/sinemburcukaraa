@@ -38,4 +38,4 @@ Check out the content I share about software development:
 [![TikTok](https://img.shields.io/badge/TikTok-CodeBurcu-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@codeburcu)
 
 ### Professional
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BurcuKara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burcukara/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SinemBurcuKara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinem-burcu-kara-b5654720a/)

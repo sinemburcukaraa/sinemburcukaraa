@@ -25,7 +25,11 @@ I am always eager to learn and improve myself.
 ![English - B1](https://img.shields.io/badge/English-B1-4ABDAC?style=for-the-badge)
 ![Turkish - Native](https://img.shields.io/badge/Turkish-Native-FD6A5A?style=for-the-badge)
 
+## 🎮 My Games
+You can check out videos of my games here:  
+[![My Games](https://img.icons8.com/ios-filled/50/000000/game-controller.png)](https://drive.google.com/drive/u/0/folders/1cPfWh_zJfPBrC033p8yunVLDDjJbdBFn)
+
 ## 📱 Dev Content
 You can also check out the content I share about software development here:  
 [![Instagram](https://img.shields.io/badge/Instagram-codeburcu-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codeburcu/)
-[![TikTok](https://img.shields.io/badge/TikTok-codeburcu-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@codeburcu)
+[![TikTok](https://img.shields.io/badge/TikTok-CodeBurcu-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@codeburcu)

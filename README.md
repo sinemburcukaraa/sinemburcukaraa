@@ -24,3 +24,4 @@ I am always eager to learn and improve myself.
 ## 📱 Dev Content
 You can also check out the content I share about software development here:  
 [![Instagram](https://img.shields.io/badge/Instagram-codeburcu-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codeburcu/)
+[![TikTok](https://img.shields.io/badge/TikTok-codeburcu-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@codeburcu)

@@ -11,10 +11,12 @@ I am always eager to learn and improve myself.
 ![Sinem's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinemburcukaraa&show_icons=true&theme=radical)
 
 ## 🛠 Skills
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-100000?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-1E90FF?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-FF6F61?style=for-the-badge&logo=aseprite&logoColor=white)
 
 ## 📱 Dev Content
 You can also check out the content I share about software development here:  

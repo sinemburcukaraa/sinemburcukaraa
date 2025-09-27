@@ -27,7 +27,7 @@ I am always eager to learn and improve myself.
 
 ## 🎮 My Games
 You can check out videos of my games here:  
-[![My Games](https://img.icons8.com/ios-filled/50/000000/game-controller.png)](https://drive.google.com/drive/u/0/folders/1cPfWh_zJfPBrC033p8yunVLDDjJbdBFn)
+[Google Drive Folder](https://drive.google.com/drive/u/0/folders/1cPfWh_zJfPBrC033p8yunVLDDjJbdBFn)
 
 ## 📱 Dev Content
 You can also check out the content I share about software development here:  

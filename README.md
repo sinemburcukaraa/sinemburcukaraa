@@ -30,7 +30,12 @@ I am always eager to learn and improve myself.
 You can check out videos of my games here:  
 [Google Drive Folder](https://drive.google.com/drive/u/0/folders/1cPfWh_zJfPBrC033p8yunVLDDjJbdBFn)
 
-## 📱 Dev Content
-You can also check out the content I share about software development here:  
-[![Instagram](https://img.shields.io/badge/Instagram-codeburcu-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codeburcu/)
+## 🌐 Socials
+
+### Dev Content
+Check out the content I share about software development:  
+[![Instagram](https://img.shields.io/badge/Instagram-CodeBurcu-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codeburcu/)
 [![TikTok](https://img.shields.io/badge/TikTok-CodeBurcu-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@codeburcu)
+
+### Professional
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BurcuKara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burcukara/)

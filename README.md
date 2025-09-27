@@ -14,6 +14,7 @@ I am always eager to learn and improve myself.
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-100000?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📱 Dev Content
 You can also check out the content I share about software development here:  

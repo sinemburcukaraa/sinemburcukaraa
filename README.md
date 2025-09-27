@@ -17,6 +17,9 @@ I am always eager to learn and improve myself.
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FF6F61?style=for-the-badge&logo=aseprite&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FFB600?style=for-the-badge&logo=miro&logoColor=white)
 
 ## 📱 Dev Content
 You can also check out the content I share about software development here:  

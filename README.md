@@ -8,7 +8,7 @@ Since my very first year at university, I have been passionate about **game deve
 I am always eager to learn and improve myself.  
 🎯 My goal is to deliver not only **fun** but also **technically strong** and **innovative** gaming experiences.
 
-![Sinem's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinemburcukaraaN&show_icons=true&theme=radical)
+![Sinem's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinemburcukaraa&show_icons=true&theme=radical)
 
 ## 🛠 Skills
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)

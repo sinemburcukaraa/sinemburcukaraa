@@ -39,3 +39,4 @@ Check out the content I share about software development:
 
 ### Professional
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SinemBurcuKara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinem-burcu-kara-b5654720a/)
+[![Google Play](https://img.shields.io/badge/Google%20Play-BurcuKara-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Burcu+Kara&hl=tr&gl=US)

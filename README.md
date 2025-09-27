@@ -21,6 +21,10 @@ I am always eager to learn and improve myself.
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-FFB600?style=for-the-badge&logo=miro&logoColor=white)
 
+## 🌐 Languages
+![English - B1](https://img.shields.io/badge/English-B1-4ABDAC?style=for-the-badge)
+![Turkish - Native](https://img.shields.io/badge/Turkish-Native-FD6A5A?style=for-the-badge)
+
 ## 📱 Dev Content
 You can also check out the content I share about software development here:  
 [![Instagram](https://img.shields.io/badge/Instagram-codeburcu-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codeburcu/)

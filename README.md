@@ -8,8 +8,6 @@ Since my very first year at university, I have been passionate about **game deve
 I am always eager to learn and improve myself.  
 🎯 My goal is to deliver not only **fun** but also **technically strong** and **innovative** gaming experiences.
 
-## 📊 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=burcukara&theme=dark&hide_border=true)
 
 ## 🛠 Skills
 ![Unity](https://img.shields.io/badge/Unity-1E90FF?style=for-the-badge&logo=unity&logoColor=white)
